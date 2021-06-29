@@ -1,0 +1,48 @@
+.payment
+{
+    background-color: white;
+}
+
+.h3
+{
+    color: blue;
+    font-weight: 900;
+    font-style: italic;
+    font-family: cursive;
+    
+}
+
+.h1
+{
+    color: green;
+    font-family: cursive;
+    font-style: italic;
+    font-size: xx-large;
+    text-align: center;
+}
+
+.a
+{
+    text-decoration: none;
+}
+
+.payment_section
+{
+    display: flex;
+    margin: 20px;
+    padding: 12px;
+    border-bottom: 1px solid grey;
+    font-family: cursive;
+}
+
+.payment_title
+{
+    flex: 0.1;
+}
+
+.payment_address , .payment_items , .payment_details
+{
+    flex: 0.8;
+}
+
+

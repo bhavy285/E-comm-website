@@ -1,0 +1,42 @@
+.checkoutProduct_rating
+{
+    display: flex;
+}
+
+.mbtn
+{
+    color: blue;
+    background-color: yellow;
+    font-size: large;
+    font-family: cursive;
+    padding: 0px 6px;
+    margin: 10px 10px 40px 0px ;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.checkoutProduct_title
+{
+    font-family: cursive;
+    font-weight: 800;
+    font-size: 20px;
+    font-style: italic;
+}
+
+.checkoutProduct
+{
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+.checkoutProduct_image
+{
+    height: 180px;
+    width: 180px;
+    /* margin:  0px 34px; */
+    margin:  0px 20px 0px 20px;
+    padding:  0px 23px 0px 23px ;
+    object-fit: contain;
+}
